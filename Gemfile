@@ -10,5 +10,7 @@ gemspec
 # Git. Remember to move these dependencies to your gemspec before releasing
 # your gem to rubygems.org.
 
+gem 'omniauth', '~> 1.9'
+
 # To use a debugger
 # gem 'byebug', group: [:development, :test]
