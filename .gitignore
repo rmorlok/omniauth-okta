@@ -4,6 +4,7 @@
 .ruby-gemset
 .ruby-version
 .rvmrc
+.idea
 Gemfile.lock
 _yardoc
 coverage
